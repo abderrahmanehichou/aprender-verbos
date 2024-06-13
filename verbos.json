@@ -1,0 +1,1326 @@
+
+{
+  "verbos": [
+    {
+      "infinitivo": "vivir",
+      "conjugaciones": {
+        "presente": {
+          "yo": "vivo",
+          "tú": "vives",
+          "él/ella": "vive",
+          "nosotros/nosotras": "vivimos",
+          "vosotros/vosotras": "vivís",
+          "ellos/ellas": "viven"
+        },
+        "futuro": {
+          "yo": "viviré",
+          "tú": "vivirás",
+          "él/ella": "vivirá",
+          "nosotros/nosotras": "viviremos",
+          "vosotros/vosotras": "viviréis",
+          "ellos/ellas": "vivirán"
+        },
+        "Pretérito imperfecto": {
+          "yo": "vivía",
+          "tú": "vivías",
+          "él/ella": "vivía",
+          "nosotros/nosotras": "vivíamos",
+          "vosotros/vosotras": "vivíais",
+          "ellos/ellas": "vivían"
+        },
+        "Pretérito perfecto compuesto": {
+          "yo": "he vivido",
+          "tú": "has vivido",
+          "él/ella": "ha vivido",
+          "nosotros/nosotras": "hemos vivido",
+          "vosotros/vosotras": "habéis vivido",
+          "ellos/ellas": "han vivido"
+        },
+        "Pretérito pluscuamperfecto": {
+          "yo": "había vivido",
+          "tú": "habías vivido",
+          "él/ella": "había vivido",
+          "nosotros/nosotras": "habíamos vivido",
+          "vosotros/vosotras": "habíais vivido",
+          "ellos/ellas": "habían vivido"
+        },
+        "Pretérito perfecto simple": {
+          "yo": "viví",
+          "tú": "viviste",
+          "él/ella": "vivió",
+          "nosotros/nosotras": "vivimos",
+          "vosotros/vosotras": "vivisteis",
+          "ellos/ellas": "vivieron"
+        },
+        "Futuro perfecto": {
+          "yo": "habré vivido",
+          "tú": "habrás vivido",
+          "él/ella": "habrá vivido",
+          "nosotros/nosotras": "habremos vivido",
+          "vosotros/vosotras": "habréis vivido",
+          "ellos/ellas": "habrán vivido"
+        },
+        "Condicional perfecto": {
+          "yo": "habría vivido",
+          "tú": "habrías vivido",
+          "él/ella": "habría vivido",
+          "nosotros/nosotras": "habríamos vivido",
+          "vosotros/vosotras": "habríais vivido",
+          "ellos/ellas": "habrían vivido"
+        },
+        "Condicional": {
+          "yo": "viviría",
+          "tú": "vivirías",
+          "él/ella": "viviría",
+          "nosotros/nosotras": "viviríamos",
+          "vosotros/vosotras": "viviríais",
+          "ellos/ellas": "vivirían"
+        }
+      },
+      "ejemplos": [
+        "Yo vivo en una ciudad pequeña.",
+        "Tú vives en un país diferente.",
+        "Él vive en un apartamento cerca del trabajo.",
+        "Nosotros vivimos en una casa con jardín.",
+        "Vosotros vivís en un barrio muy animado.",
+        "Ellos viven en un pueblo tranquilo en la montaña.",
+        "Yo vivo en una casa grande.",
+        "Él vive feliz con su familia.",
+        "Nosotros vivimos cerca del mar."
+      ]
+    },
+    {
+      "infinitivo": "haber",
+      "conjugaciones": {
+        "presente": {
+          "yo": "he",
+          "tú": "has",
+          "él/ella": "ha",
+          "nosotros/nosotras": "hemos",
+          "vosotros/vosotras": "habéis",
+          "ellos/ellas": "han"
+        },
+        "Pretérito imperfecto": {
+          "yo": "había",
+          "tú": "habías",
+          "él/ella": "había",
+          "nosotros/nosotras": "habíamos",
+          "vosotros/vosotras": "habíais",
+          "ellos/ellas": "habían"
+        },
+        "Futuro": {
+          "yo": "habré",
+          "tú": "habrás",
+          "él/ella": "habrá",
+          "nosotros/nosotras": "habremos",
+          "vosotros/vosotras": "habréis",
+          "ellos/ellas": "habrán"
+        },
+        "Condicional": {
+          "yo": "habría",
+          "tú": "habrías",
+          "él/ella": "habría",
+          "nosotros/nosotras": "habríamos",
+          "vosotros/vosotras": "habríais",
+          "ellos/ellas": "habrían"
+        }
+      },
+      "ejemplos": [
+        "Ha habido una gran tormenta anoche.",
+        "Tú has sido un gran amigo durante años.",
+        "Ella ha llegado tarde a la reunión.",
+        "Nosotros hemos planeado un viaje para el próximo mes.",
+        "Vosotros habéis visto la nueva película de Marvel.",
+        "Ellos han estudiado mucho para el examen."
+      ]
+    },
+    {
+      "infinitivo": "ser",
+      "conjugaciones": {
+        "presente": {
+          "yo": "soy",
+          "tú": "eres",
+          "él/ella": "es",
+          "nosotros/nosotras": "somos",
+          "vosotros/vosotras": "sois",
+          "ellos/ellas": "son"
+        },
+        "Pretérito imperfecto": {
+          "yo": "era",
+          "tú": "eras",
+          "él/ella": "era",
+          "nosotros/nosotras": "éramos",
+          "vosotros/vosotras": "erais",
+          "ellos/ellas": "eran"
+        },
+        "Futuro": {
+          "yo": "seré",
+          "tú": "serás",
+          "él/ella": "será",
+          "nosotros/nosotras": "seremos",
+          "vosotros/vosotras": "seréis",
+          "ellos/ellas": "serán"
+        },
+        "Condicional": {
+          "yo": "sería",
+          "tú": "serías",
+          "él/ella": "sería",
+          "nosotros/nosotras": "seríamos",
+          "vosotros/vosotras": "seríais",
+          "ellos/ellas": "serían"
+        }
+      },
+      "ejemplos": [
+        "Soy estudiante de medicina.",
+        "Tú eres muy inteligente.",
+        "Él es un buen cocinero.",
+        "Nosotros somos una familia muy unida.",
+        "Vosotros sois excelentes compañeros de trabajo.",
+        "Ellos son muy simpáticos."
+      ]
+    },
+    {
+      "infinitivo": "estar",
+      "conjugaciones": {
+        "presente": {
+          "yo": "estoy",
+          "tú": "estás",
+          "él/ella": "está",
+          "nosotros/nosotras": "estamos",
+          " vosotros/vosotras": "estáis",
+          "ellos/ellas": "están"
+        },
+        "Pretérito imperfecto": {
+          "yo": "estaba",
+          "tú": "estabas",
+          "él/ella": "estaba",
+          "nosotros/nosotras": "estábamos",
+          "vosotros/vosotras": "estabais",
+          "ellos/ellas": "estaban"
+        },
+        "Futuro": {
+          "yo": "estaré",
+          "tú": "estarás",
+          "él/ella": "estará",
+          "nosotros/nosotras": "estaremos",
+          "vosotros/vosotras": "estaréis",
+          "ellos/ellas": "estarán"
+        },
+        "Condicional": {
+          "yo": "estaría",
+          "tú": "estarías",
+          "él/ella": "estaría",
+          "nosotros/nosotras": "estaríamos",
+          "vosotros/vosotras": "estaríais",
+          "ellos/ellas": "estarían"
+        }
+      },
+      "ejemplos": [
+        "Estoy cansado después de trabajar todo el día.",
+        "Tú estás feliz porque has aprobado el examen.",
+        "Ella está preocupada por su hermano.",
+        "Nosotros estamos en el parque disfrutando del sol.",
+        "Vosotros estáis emocionados por la fiesta de esta noche.",
+        "Ellos están en el cine viendo una película."
+      ]
+    },
+    {
+      "infinitivo": "tener",
+      "conjugaciones": {
+        "presente": {
+          "yo": "tengo",
+          "tú": "tienes",
+          "él/ella": "tiene",
+          "nosotros/nosotras": "tenemos",
+          "vosotros/vosotras": "tenéis",
+          "ellos/ellas": "tienen"
+        },
+        "Pretérito imperfecto": {
+          "yo": "tenía",
+          "tú": "tenías",
+          "él/ella": "tenía",
+          "nosotros/nosotras": "teníamos",
+          "vosotros/vosotras": "teníais",
+          "ellos/ellas": "tenían"
+        },
+        "Futuro": {
+          "yo": "tendré",
+          "tú": "tendrás",
+          "él/ella": "tendrá",
+          "nosotros/nosotras": "tendremos",
+          "vosotros/vosotras": "tendréis",
+          "ellos/ellas": "tendrán"
+        },
+        "Condicional": {
+          "yo": "tendría",
+          "tú": "tendrías",
+          "él/ella": "tendría",
+          "nosotros/nosotras": "tendríamos",
+          "vosotros/vosotras": "tendríais",
+          "ellos/ellas": "tendrían"
+        }
+      },
+      "ejemplos": [
+        "Tengo un perro llamado Max.",
+        "Tú tienes una casa en la playa.",
+        "Él tiene mucha hambre.",
+        "Nosotros tenemos una reunión importante mañana.",
+        "Vosotros tenéis una fiesta en vuestra casa.",
+        "Ellos tienen un coche nuevo."
+      ]
+    },
+    {
+      "infinitivo": "ir",
+      "conjugaciones": {
+        "presente": {
+          "yo": "voy",
+          "tú": "vas",
+          "él/ella": "va",
+          "nosotros/nosotras": "vamos",
+          "vosotros/vosotras": "vais",
+          "ellos/ellas": "van"
+        },
+        "Pretérito imperfecto": {
+          "yo": "iba",
+          "tú": "ibas",
+          "él/ella": "iba",
+          "nosotros/nosotras": "íbamos",
+          "vosotros/vosotras": "ibais",
+          "ellos/ellas": "iban"
+        },
+        "Futuro": {
+          "yo": "iré",
+          "tú": "irás",
+          "él/ella": "irá",
+          "nosotros/nosotras": "iremos",
+          "vosotros/vosotras": "iréis",
+          "ellos/ellas": "irán"
+        },
+        "Condicional": {
+          "yo": "iría",
+          "tú": "irías",
+          "él/ella": "iría",
+          "nosotros/nosotras": "iríamos",
+          "vosotros/vosotras": "iríais",
+          "ellos/ellas": "irían"
+        }
+      },
+      "ejemplos": [
+        "Voy al supermercado a comprar comida.",
+        "Tú vas al gimnasio todas las mañanas.",
+        "Él va a la universidad en bicicleta.",
+        "Nosotros vamos al parque a pasear.",
+        "Vosotros vais de vacaciones a la playa.",
+        "Ellos van al concierto esta noche."
+      ]
+    },
+    {
+      "infinitivo": "hacer",
+      "conjugaciones": {
+        "presente": {
+          "yo": "hago",
+          "tú": "haces",
+          "él/ella": "hace",
+          "nosotros/nosotras": "hacemos",
+          "vosotros/vosotras": "hacéis",
+          "ellos/ellas": "hacen"
+        },
+        "Pretérito imperfecto": {
+          "yo": "hacía",
+          "tú": "hacías",
+          "él/ella": "hacía",
+          "nosotros/nosotras": "hacíamos",
+          "vosotros/vosotras": "hacíais",
+          "ellos/ellas": "hacían"
+        },
+        "Futuro": {
+          "yo": "haré",
+          "tú": "harás",
+          "él/ella": "hará",
+          "nosotros/nosotras": "haremos",
+          "vosotros/vosotras": "haréis",
+          "ellos/ellas": "harán"
+        },
+        "Condicional": {
+          "yo": "haría",
+          "tú": "harías",
+          "él/ella": "haría",
+          "nosotros/nosotras": "haríamos",
+          "vosotros/vosotras": "haríais",
+          "ellos/ellas": "harían"
+        }
+      },
+      "ejemplos": [
+        "Hago ejercicio todos los días.",
+        "Tú haces la cena para toda la familia.",
+        "Él hace su tarea por la tarde.",
+        "Nosotros hacemos un pastel para la fiesta.",
+        "Vosotros hacéis un viaje cada verano.",
+        "Ellos hacen ruido cuando juegan."
+      ]
+    },
+    {
+      "infinitivo": "comer",
+      "conjugaciones": {
+        "presente": {
+          "yo": "como",
+          "tú": "comes",
+          "él/ella": "come",
+          "nosotros/nosotras": "comemos",
+          "vosotros/vosotras": "coméis",
+          "ellos/ellas": "comen"
+        },
+        "Pretérito imperfecto": {
+          "yo": "comía",
+          "tú": "comías",
+          "él/ella": "comía",
+          "nosotros/nosotras": "comíamos",
+          "vosotros/vosotras": "comíais",
+          "ellos/ellas": "comían"
+        },
+        "Futuro": {
+          "yo": "comeré",
+          "tú": "comerás",
+          "él/ella": "comerá",
+          "nosotros/nosotras": "comeremos",
+          "vosotros/vosotras": "comeréis",
+          "ellos/ellas": "comerán"
+        },
+        "Condicional": {
+          "yo": "comería",
+          "tú": "comerías",
+          "él/ella": "comería",
+          "nosotros/nosotras": "comeríamos",
+          "vosotros/vosotras": "comeríais",
+          "ellos/ellas": "comerían"
+        }
+      },
+      "ejemplos": [
+        "Como una ensalada para el almuerzo.",
+        "Tú comes pizza los viernes.",
+        "Él come muy saludable.",
+        "Nosotros comemos juntos todos los domingos.",
+        "Vosotros coméis en el restaurante cada semana.",
+        "Ellos comen demasiado rápido."
+      ]
+    },
+    {
+      "infinitivo": "poder",
+      "conjugaciones": {
+        "presente": {
+          "yo": "puedo",
+          "tú": "puedes",
+          "él/ella": "puede",
+          "nosotros/nosotras": "podemos",
+          "vosotros/vosotras": "podéis",
+          "ellos/ellas": "pueden"
+        },
+        "Pretérito imperfecto": {
+          "yo": "podía",
+          "tú": "podías",
+          "él/ella": "podía",
+          "nosotros/nosotras": "podíamos",
+          "vosotros/vosotras": "podíais",
+          "ellos/ellas": "podían"
+        },
+        "Futuro": {
+          "yo": "podré",
+          "tú": "podrás",
+          "él/ella": "podrá",
+          "nosotros/nosotras": "podremos",
+          "vosotros/vosotras": "podréis",
+          "ellos/ellas": "podrán"
+        },
+        "Condicional": {
+          "yo": "podría",
+          "tú": "podrías",
+          "él/ella": "podría",
+          "nosotros/nosotras": "podríamos",
+          "vosotros/vosotras": "podríais",
+          "ellos/ellas": "podrían"
+        }
+      },
+      "ejemplos": [
+        "Puedo hablar tres idiomas.",
+        "Tú puedes venir a la fiesta si quieres.",
+        "Él puede correr una maratón.",
+        "Nosotros podemos hacer esto juntos.",
+        "Vosotros podéis terminar el proyecto a tiempo.",
+        "Ellos pueden nadar muy bien."
+      ]
+    },
+    {
+      "infinitivo": "decir",
+      "conjugaciones": {
+        "presente": {
+          "yo": "digo",
+          "tú": "dices",
+          "él/ella": "dice",
+          "nosotros/nosotras": "decimos",
+          "vosotros/vosotras": "decís",
+          "ellos/ellas": "dicen"
+        },
+        "Pretérito imperfecto": {
+          "yo": "decía",
+          "tú": "decías",
+          "él/ella": "decía",
+          "nosotros/nosotras": "decíamos",
+          "vosotros/vosotras": "decíais",
+          "ellos/ellas": "decían"
+        },
+        "Futuro": {
+          "yo": "diré",
+          "tú": "dirás",
+          "él/ella": "dirá",
+          "nosotros/nosotras": "diremos",
+          "vosotros/vosotras": "diréis",
+          "ellos/ellas": "dirán"
+        },
+        "Condicional": {
+          "yo": "diría",
+          "tú": "dirías",
+          "él/ella": "diría",
+          "nosotros/nosotras": "diríamos",
+          "vosotros/vosotras": "diríais",
+          "ellos/ellas": "dirían"
+        }
+      },
+      "ejemplos": [
+        "Digo la verdad siempre.",
+        "Tú dices que vendrás mañana.",
+        "Él dice muchas cosas interesantes.",
+        "Nosotros decimos que todo está bien.",
+        "Vosotros decís lo que pensáis.",
+        "Ellos dicen que les gusta el plan."
+      ]
+    },
+    {
+      "infinitivo": "saber",
+      "conjugaciones": {
+        "presente": {
+          "yo": "sé",
+          "tú": "sabes",
+          "él/ella": "sabe",
+          "nosotros/nosotras": "sabemos",
+          "vosotros/vosotras": "sabéis",
+          "ellos/ellas": "saben"
+        },
+        "Pretérito imperfecto": {
+          "yo": "sabía",
+          "tú": "sabías",
+          "él/ella": "sabía",
+          "nosotros/nosotras": "sabíamos",
+          "vosotros/vosotras": "sabíais",
+          "ellos/ellas": "sabían"
+        },
+        "Futuro": {
+          "yo": "sabré",
+          "tú": "sabrás",
+          "él/ella": "sabrá",
+          "nosotros/nosotras": "sabremos",
+          "vosotros/vosotras": "sabréis",
+          "ellos/ellas": "sabrán"
+        },
+        "Condicional": {
+          "yo": "sabría",
+          "tú": "sabrías",
+          "él/ella": "sabría",
+          "nosotros/nosotras": "sabríamos",
+          "vosotros/vosotras": "sabríais",
+          "ellos/ellas": "sabrían"
+        }
+      },
+      "ejemplos": [
+        "Sé cocinar platos deliciosos.",
+        "Tú sabes mucho sobre historia.",
+        "Él sabe conducir muy bien.",
+        "Nosotros sabemos cómo resolver el problema.",
+        "Vosotros sabéis muchas cosas interesantes.",
+        "Ellos saben hablar varios idiomas."
+      ]
+    },
+    {
+      "infinitivo": "ver",
+      "conjugaciones": {
+        "presente": {
+          "yo": "veo",
+          "tú": "ves",
+          "él/ella": "ve",
+          "nosotros/nosotras": "vemos",
+          "vosotros/vosotras": "veis",
+          "ellos/ellas": "ven"
+        },
+        "Pretérito imperfecto": {
+          "yo": "veía",
+          "tú": "veías",
+          "él/ella": "veía",
+          "nosotros/nosotras": "veíamos",
+          "vosotros/vosotras": "veíais",
+          "ellos/ellas": "veían"
+        },
+        "Futuro": {
+          "yo": "veré",
+          "tú": "verás",
+          "él/ella": "verá",
+          "nosotros/nosotras": "veremos",
+          "vosotros/vosotras": "veréis",
+          "ellos/ellas": "verán"
+        },
+        "Condicional": {
+          "yo": "vería",
+          "tú": "verías",
+          "él/ella": "vería",
+          "nosotros/nosotras": "veríamos",
+          "vosotros/vosotras": "veríais",
+          "ellos/ellas": "verían"
+        }
+      },
+      "ejemplos": [
+        "Veo la televisión por la noche.",
+        "Tú ves a tus amigos los fines de semana.",
+        "Él ve una película cada viernes.",
+        "Nosotros vemos un partido de fútbol en el estadio.",
+        "Vosotros veis las estrellas en el cielo.",
+        "Ellos ven una obra de teatro en el centro."
+      ]
+    },
+    {
+      "infinitivo": "venir",
+      "conjugaciones": {
+        "presente": {
+          "yo": "vengo",
+          "tú": "vienes",
+          "él/ella": "viene",
+          "nosotros/nosotras": "venimos",
+          "vosotros/vosotras": "venís",
+          "ellos/ellas": "vienen"
+        },
+        "Pretérito imperfecto": {
+          "yo": "venía",
+          "tú": "venías",
+          "él/ella": "venía",
+          "nosotros/nosotras": "veníamos",
+          "vosotros/vosotras": "veníais",
+          "ellos/ellas": "venían"
+        },
+        "Futuro": {
+          "yo": "vendré",
+          "tú": "vendrás",
+          "él/ella": "vendrá",
+          "nosotros/nosotras": "vendremos",
+          "vosotros/vosotras": "vendréis",
+          "ellos/ellas": "vendrán"
+        },
+        "Condicional": {
+          "yo": "vendría",
+          "tú": "vendrías",
+          "él/ella": "vendría",
+          "nosotros/nosotras": "vendríamos",
+          "vosotros/vosotras": "vendríais",
+          "ellos/ellas": "vendrían"
+        }
+      },
+      "ejemplos": [
+        "Vengo a la oficina todos los días.",
+        "Tú vienes con nosotros a la fiesta.",
+        "Él viene a clase preparado.",
+        "Nosotros venimos a visitar a nuestros abuelos.",
+        "Vosotros venís a la reunión de vecinos.",
+        "Ellos vienen a cenar esta noche."
+      ]
+    },
+    {
+      "infinitivo": "querer",
+      "conjugaciones": {
+        "presente": {
+          "yo": "quiero",
+          "tú": "quieres",
+          "él/ella": "quiere",
+          "nosotros/nosotras": "queremos",
+          "vosotros/vosotras": "queréis",
+          "ellos/ellas": "quieren"
+        },
+        "Pretérito imperfecto": {
+          "yo": "quería",
+          "tú": "querías",
+          "él/ella": "quería",
+          "nosotros/nosotras": "queríamos",
+          "vosotros/vosotras": "queríais",
+          "ellos/ellas": "querían"
+        },
+        "Futuro": {
+          "yo": "querré",
+          "tú": "querrás",
+          "él/ella": "querrá",
+          "nosotros/nosotras": "querremos",
+          "vosotros/vosotras": "querréis",
+          "ellos/ellas": "querrán"
+        },
+        "Condicional": {
+          "yo": "querría",
+          "tú": "querrías",
+          "él/ella": "querría",
+          "nosotros/nosotras": "querríamos",
+          "vosotros/vosotras": "querríais",
+          "ellos/ellas": "querrían"
+        }
+      },
+      "ejemplos": [
+        "Quiero aprender a tocar la guitarra.",
+        "Tú quieres ser médico en el futuro.",
+        "Él quiere un coche nuevo.",
+        "Nosotros queremos viajar por el mundo.",
+        "Vosotros queréis comer en ese restaurante.",
+        "Ellos quieren cambiar de trabajo."
+      ]
+    },
+    {
+      "infinitivo": "amar",
+      "conjugaciones": {
+        "presente": {
+          "yo": "amo",
+          "tú": "amas",
+          "él/ella": "ama",
+          "nosotros/nosotras": "amamos",
+          "vosotros/vosotras": "amáis",
+          "ellos/ellas": "aman"
+        },
+        "Pretérito imperfecto": {
+          "yo": "amaba",
+          "tú": "amabas",
+          "él/ella": "amaba",
+          "nosotros/nosotras": "amábamos",
+          "vosotros/vosotras": "amabais",
+          "ellos/ellas": "amaban"
+        },
+        "Futuro": {
+          "yo": "amaré",
+          "tú": "amarás",
+          "él/ella": "amará",
+          "nosotros/nosotras": "amaremos",
+          "vosotros/vosotras": "amaréis",
+          "ellos/ellas": "amarán"
+        },
+        "Condicional": {
+          "yo": "amaría",
+          "tú": "amarías",
+          "él/ella": "amaría",
+          "nosotros/nosotras": "amaríamos",
+          "vosotros/vosotras": "amaríais",
+          "ellos/ellas": "amarían"
+        }
+      },
+      "ejemplos": [
+        "Amo leer libros de misterio.",
+        "Tú amas a tu familia.",
+        "Ella ama bailar salsa.",
+        "Nosotros amamos las películas de acción.",
+        "Vosotros amáis los días soleados.",
+        "Ellos aman la naturaleza."
+      ]
+    },
+    {
+      "infinitivo": "salir",
+      "conjugaciones": {
+        "presente": {
+          "yo": "salgo",
+          "tú": "sales",
+          "él/ella": "sale",
+          "nosotros/nosotras": "salimos",
+          "vosotros/vosotras": "salís",
+          "ellos/ellas": "salen"
+        },
+        "Pretérito imperfecto": {
+          "yo": "salía",
+          "tú": "salías",
+          "él/ella": "salía",
+          "nosotros/nosotras": "salíamos",
+          "vosotros/vosotras": "salíais",
+          "ellos/ellas": "salían"
+        },
+        "Futuro": {
+          "yo": "saldré",
+          "tú": "saldrás",
+          "él/ella": "saldrá",
+          "nosotros/nosotras": "saldremos",
+          "vosotros/vosotras": "saldréis",
+
+
+          "ellos/ellas": "saldrán"
+        },
+        "Condicional": {
+          "yo": "saldría",
+          "tú": "saldrías",
+          "él/ella": "saldría",
+          "nosotros/nosotras": "saldríamos",
+          "vosotros/vosotras": "saldríais",
+          "ellos/ellas": "saldrían"
+        }
+      },
+      "ejemplos": [
+        "Salgo a correr todas las mañanas.",
+        "Tú sales con tus amigos los fines de semana.",
+        "Él sale del trabajo a las seis.",
+        "Nosotros salimos a cenar los viernes.",
+        "Vosotros salís del colegio a las tres.",
+        "Ellos salen de viaje en verano."
+      ]
+    },
+    {
+      "infinitivo": "dar",
+      "conjugaciones": {
+        "presente": {
+          "yo": "doy",
+          "tú": "das",
+          "él/ella": "da",
+          "nosotros/nosotras": "damos",
+          "vosotros/vosotras": "dais",
+          "ellos/ellas": "dan"
+        },
+        "Pretérito imperfecto": {
+          "yo": "daba",
+          "tú": "dabas",
+          "él/ella": "daba",
+          "nosotros/nosotras": "dábamos",
+          "vosotros/vosotras": "dabais",
+          "ellos/ellas": "daban"
+        },
+        "Futuro": {
+          "yo": "daré",
+          "tú": "darás",
+          "él/ella": "dará",
+          "nosotros/nosotras": "daremos",
+          "vosotros/vosotras": "daréis",
+          "ellos/ellas": "darán"
+        },
+        "Condicional": {
+          "yo": "daría",
+          "tú": "darías",
+          "él/ella": "daría",
+          "nosotros/nosotras": "daríamos",
+          "vosotros/vosotras": "daríais",
+          "ellos/ellas": "darían"
+        }
+      },
+      "ejemplos": [
+        "Doy clases de matemáticas.",
+        "Tú das buenos consejos.",
+        "Él da una conferencia esta tarde.",
+        "Nosotros damos una fiesta en casa.",
+        "Vosotros dais regalos en Navidad.",
+        "Ellos dan paseos por el parque."
+      ]
+    },
+    {
+      "infinitivo": "cantar",
+      "conjugaciones": {
+        "presente": {
+          "yo": "canto",
+          "tú": "cantas",
+          "él/ella": "canta",
+          "nosotros/nosotras": "cantamos",
+          "vosotros/vosotras": "cantáis",
+          "ellos/ellas": "cantan"
+        },
+        "Pretérito imperfecto": {
+          "yo": "cantaba",
+          "tú": "cantabas",
+          "él/ella": "cantaba",
+          "nosotros/nosotras": "cantábamos",
+          "vosotros/vosotras": "cantabais",
+          "ellos/ellas": "cantaban"
+        },
+        "Futuro": {
+          "yo": "cantaré",
+          "tú": "cantarás",
+          "él/ella": "cantará",
+          "nosotros/nosotras": "cantaremos",
+          "vosotros/vosotras": "cantaréis",
+          "ellos/ellas": "cantarán"
+        },
+        "Condicional": {
+          "yo": "cantaría",
+          "tú": "cantarías",
+          "él/ella": "cantaría",
+          "nosotros/nosotras": "cantaríamos",
+          "vosotros/vosotras": "cantaríais",
+          "ellos/ellas": "cantarían"
+        }
+      },
+      "ejemplos": [
+        "Canto en un coro los domingos.",
+        "Tú cantas muy bien.",
+        "Ella canta canciones de amor.",
+        "Nosotros cantamos juntos en las fiestas.",
+        "Vosotros cantáis en el karaoke.",
+        "Ellos cantan en la iglesia."
+      ]
+    },
+    {
+      "infinitivo": "poner",
+      "conjugaciones": {
+        "presente": {
+          "yo": "pongo",
+          "tú": "pones",
+          "él/ella": "pone",
+          "nosotros/nosotras": "ponemos",
+          "vosotros/vosotras": "ponéis",
+          "ellos/ellas": "ponen"
+        },
+        "Pretérito imperfecto": {
+          "yo": "ponía",
+          "tú": "ponías",
+          "él/ella": "ponía",
+          "nosotros/nosotras": "poníamos",
+          "vosotros/vosotras": "poníais",
+          "ellos/ellas": "ponían"
+        },
+        "Futuro": {
+          "yo": "pondré",
+          "tú": "pondrás",
+          "él/ella": "pondrá",
+          "nosotros/nosotras": "pondremos",
+          "vosotros/vosotras": "pondréis",
+          "ellos/ellas": "pondrán"
+        },
+        "Condicional": {
+          "yo": "pondría",
+          "tú": "pondrías",
+          "él/ella": "pondría",
+          "nosotros/nosotras": "pondríamos",
+          "vosotros/vosotras": "pondríais",
+          "ellos/ellas": "pondrían"
+        }
+      },
+      "ejemplos": [
+        "Pongo la mesa para la cena.",
+        "Tú pones la radio cada mañana.",
+        "Él pone la televisión para ver las noticias.",
+        "Nosotros ponemos las decoraciones en el árbol.",
+        "Vosotros ponéis las sillas en su lugar.",
+        "Ellos ponen música en la fiesta."
+      ]
+    },
+    {
+      "infinitivo": "hablar",
+      "conjugaciones": {
+        "presente": {
+          "yo": "hablo",
+          "tú": "hablas",
+          "él/ella": "habla",
+          "nosotros/nosotras": "hablamos",
+          "vosotros/vosotras": "habláis",
+          "ellos/ellas": "hablan"
+        },
+        "Pretérito imperfecto": {
+          "yo": "hablaba",
+          "tú": "hablabas",
+          "él/ella": "hablaba",
+          "nosotros/nosotras": "hablábamos",
+          "vosotros/vosotras": "hablabais",
+          "ellos/ellas": "hablaban"
+        },
+        "Futuro": {
+          "yo": "hablaré",
+          "tú": "hablarás",
+          "él/ella": "hablará",
+          "nosotros/nosotras": "hablaremos",
+          "vosotros/vosotras": "hablaréis",
+          "ellos/ellas": "hablarán"
+        },
+        "Condicional": {
+          "yo": "hablaría",
+          "tú": "hablarías",
+          "él/ella": "hablaría",
+          "nosotros/nosotras": "hablaríamos",
+          "vosotros/vosotras": "hablaríais",
+          "ellos/ellas": "hablarían"
+        }
+      },
+      "ejemplos": [
+        "Hablo con mi madre todos los días.",
+        "Tú hablas muy rápido.",
+        "Él habla tres idiomas.",
+        "Nosotros hablamos sobre nuestras vacaciones.",
+        "Vosotros habláis por teléfono a menudo.",
+        "Ellos hablan de sus planes futuros."
+      ]
+    },
+    {
+      "infinitivo": "jugar",
+      "conjugaciones": {
+        "presente": {
+          "yo": "juego",
+          "tú": "juegas",
+          "él/ella": "juega",
+          "nosotros/nosotras": "jugamos",
+          "vosotros/vosotras": "jugáis",
+          "ellos/ellas": "juegan"
+        },
+        "Pretérito imperfecto": {
+          "yo": "jugaba",
+          "tú": "jugabas",
+          "él/ella": "jugaba",
+          "nosotros/nosotras": "jugábamos",
+          "vosotros/vosotras": "jugabais",
+          "ellos/ellas": "jugaban"
+        },
+        "Futuro": {
+          "yo": "jugaré",
+          "tú": "jugarás",
+          "él/ella": "jugará",
+          "nosotros/nosotras": "jugaremos",
+          "vosotros/vosotras": "jugaréis",
+          "ellos/ellas": "jugarán"
+        },
+        "Condicional": {
+          "yo": "jugaría",
+          "tú": "jugarías",
+          "él/ella": "jugaría",
+          "nosotros/nosotras": "jugaríamos",
+          "vosotros/vosotras": "jugaríais",
+          "ellos/ellas": "jugarían"
+        }
+      }
+    },
+    {
+      "infinitivo": "coger",
+      "conjugaciones": {
+        "presente": {
+          "yo": "cojo",
+          "tú": "coges",
+          "él/ella": "coge",
+          "nosotros/nosotras": "cogemos",
+          "vosotros/vosotras": "cogéis",
+          "ellos/ellas": "cogen"
+        },
+        "Pretérito imperfecto": {
+          "yo": "cogía",
+          "tú": "cogías",
+          "él/ella": "cogía",
+          "nosotros/nosotras": "cogíamos",
+          "vosotros/vosotras": "cogíais",
+          "ellos/ellas": "cogían"
+        },
+        "Futuro": {
+          "yo": "cogeré",
+          "tú": "cogerás",
+          "él/ella": "cogerá",
+          "nosotros/nosotras": "cogeremos",
+          "vosotros/vosotras": "cogeréis",
+          "ellos/ellas": "cogerán"
+        },
+        "Condicional": {
+          "yo": "cogería",
+          "tú": "cogerías",
+          "él/ella": "cogería",
+          "nosotros/nosotras": "cogeríamos",
+          "vosotros/vosotras": "cogeríais",
+          "ellos/ellas": "cogerían"
+        }
+      }
+    },
+    {
+      "infinitivo": "escribir",
+      "conjugaciones": {
+        "presente": {
+          "yo": "escribo",
+          "tú": "escribes",
+          "él/ella": "escribe",
+          "nosotros/nosotras": "escribimos",
+          "vosotros/vosotras": "escribís",
+          "ellos/ellas": "escriben"
+        },
+        "Pretérito imperfecto": {
+          "yo": "escribía",
+          "tú": "escribías",
+          "él/ella": "escribía",
+          "nosotros/nosotras": "escribíamos",
+          "vosotros/vosotras": "escribíais",
+          "ellos/ellas": "escribían"
+        },
+        "Futuro": {
+          "yo": "escribiré",
+          "tú": "escribirás",
+          "él/ella": "escribirá",
+          "nosotros/nosotras": "escribiremos",
+          "vosotros/vosotras": "escribiréis",
+          "ellos/ellas": "escribirán"
+        },
+        "Condicional": {
+          "yo": "escribiría",
+          "tú": "escribirías",
+          "él/ella": "escribiría",
+          "nosotros/nosotras": "escribiríamos",
+          "vosotros/vosotras": "escribiríais",
+          "ellos/ellas": "escribirían"
+        }
+      }
+    },
+    {
+      "infinitivo": "dormir",
+      "conjugaciones": {
+        "presente": {
+          "yo": "duermo",
+          "tú": "duermes",
+          "él/ella": "duerme",
+          "nosotros/nosotras": "dormimos",
+          "vosotros/vosotras": "dormís",
+          "ellos/ellas": "duermen"
+        },
+        "Pretérito imperfecto": {
+          "yo": "dormía",
+          "tú": "dormías",
+          "él/ella": "dormía",
+          "nosotros/nosotras": "dormíamos",
+          "vosotros/vosotras": "dormíais",
+          "ellos/ellas": "dormían"
+        },
+        "Futuro": {
+          "yo": "dormiré",
+          "tú": "dormirás",
+          "él/ella": "dormirá",
+          "nosotros/nosotras": "dormiremos",
+          "vosotros/vosotras": "dormiréis",
+          "ellos/ellas": "dormirán"
+        },
+        "Condicional": {
+          "yo": "dormiría",
+          "tú": "dormirías",
+          "él/ella": "dormiría",
+          "nosotros/nosotras": "dormiríamos",
+          "vosotros/vosotras": "dormiríais",
+          "ellos/ellas": "dormirían"
+        }
+      }
+    },
+    {
+      "infinitivo": "leer",
+      "conjugaciones": {
+        "presente": {
+          "yo": "leo",
+          "tú": "lees",
+          "él/ella": "lee",
+          "nosotros/nosotras": "leemos",
+          "vosotros/vosotras": "leéis",
+          "ellos/ellas": "leen"
+        },
+        "Pretérito imperfecto": {
+          "yo": "leía",
+          "tú": "leías",
+          "él/ella": "leía",
+          "nosotros/nosotras": "leíamos",
+          "vosotros/vosotras": "leíais",
+          "ellos/ellas": "leían"
+        },
+        "Futuro": {
+          "yo": "leeré",
+          "tú": "leerás",
+          "él/ella": "leerá",
+          "nosotros/nosotras": "leeremos",
+          "vosotros/vosotras": "leeréis",
+          "ellos/ellas": "leerán"
+        },
+        "Condicional": {
+          "yo": "leería",
+          "tú": "leerías",
+          "él/ella": "leería",
+          "nosotros/nosotras": "leeríamos",
+          "vosotros/vosotras": "leeríais",
+          "ellos/ellas": "leerían"
+        }
+      }
+    },
+    {
+      "infinitivo": "volver",
+      "conjugaciones": {
+        "presente": {
+          "yo": "vuelvo",
+          "tú": "vuelves",
+          "él/ella": "vuelve",
+          "nosotros/nosotras": "volvemos",
+          "vosotros/vosotras": "volvéis",
+          "ellos/ellas": "vuelven"
+        },
+        "Pretérito imperfecto": {
+          "yo": "volvía",
+          "tú": "volvías",
+          "él/ella": "volvía",
+          "nosotros/nosotras": "volvíamos",
+          "vosotros/vosotras": "volvíais",
+          "ellos/ellas": "volvían"
+        },
+        "Futuro": {
+          "yo": "volveré",
+          "tú": "volverás",
+          "él/ella": "volverá",
+          "nosotros/nosotras": "volveremos",
+          "vosotros/vosotras": "volveréis",
+          "ellos/ellas": "volverán"
+        },
+        "Condicional": {
+          "yo": "volvería",
+          "tú": "volverías",
+          "él/ella": "volvería",
+          "nosotros/nosotras": "volveríamos",
+          "vosotros/vosotras": "volveríais",
+          "ellos/ellas": "volverían"
+        }
+      }
+    },
+    {
+      "infinitivo": "traer",
+      "conjugaciones": {
+        "presente": {
+          "yo": "traigo",
+          "tú": "traes",
+          "él/ella": "trae",
+          "nosotros/nosotras": "traemos",
+          "vosotros/vosotras": "traéis",
+          "ellos/ellas": "traen"
+        },
+        "Pretérito imperfecto": {
+          "yo": "traía",
+          "tú": "traías",
+          "él/ella": "traía",
+          "nosotros/nosotras": "traíamos",
+          "vosotros/vosotras": "traíais",
+          "ellos/ellas": "traían"
+        },
+        "Futuro": {
+          "yo": "traeré",
+          "tú": "traerás",
+          "él/ella": "traerá",
+          "nosotros/nosotras": "traeremos",
+          "vosotros/vosotras": "traeréis",
+          "ellos/ellas": "traerán"
+        },
+        "Condicional": {
+          "yo": "traería",
+          "tú": "traerías",
+          "él/ella": "traería",
+          "nosotros/nosotras": "traeríamos",
+          "vosotros/vosotras": "traeríais",
+          "ellos/ellas": "traerían"
+        }
+      }
+    },
+    {
+      "infinitivo": "pedir",
+      "conjugaciones": {
+        "presente": {
+          "yo": "pido",
+          "tú": "pides",
+          "él/ella": "pide",
+          "nosotros/nosotras": "pedimos",
+          "vosotros/vosotras": "pedís",
+          "ellos/ellas": "piden"
+        },
+        "Pretérito imperfecto": {
+          "yo": "pedía",
+          "tú": "pedías",
+          "él/ella": "pedía",
+          "nosotros/nosotras": "pedíamos",
+          "vosotros/vosotras": "pedíais",
+          "ellos/ellas": "pedían"
+        },
+        "Futuro": {
+          "yo": "pediré",
+          "tú": "pedirás",
+          "él/ella": "pedirá",
+          "nosotros/nosotras": "pediremos",
+          "vosotros/vosotras": "pediréis",
+          "ellos/ellas": "pedirán"
+        },
+        "Condicional": {
+          "yo": "pediría",
+          "tú": "pedirías",
+          "él/ella": "pediría",
+          "nosotros/nosotras": "pediríamos",
+          "vosotros/vosotras": "pediríais",
+          "ellos/ellas": "pedirían"
+        }
+      }
+    },
+    {
+      "infinitivo": "empezar",
+      "conjugaciones": {
+        "presente": {
+          "yo": "empiezo",
+          "tú": "empiezas",
+          "él/ella": "empieza",
+          "nosotros/nosotras": "empezamos",
+          "vosotros/vosotras": "empezáis",
+          "ellos/ellas": "empiezan"
+        },
+        "Pretérito imperfecto": {
+          "yo": "empezaba",
+          "tú": "empezabas",
+          "él/ella": "empezaba",
+          "nosotros/nosotras": "empezábamos",
+          "vosotros/vosotras": "empezabais",
+          "ellos/ellas": "empezaban"
+        },
+        "Futuro": {
+          "yo": "empezaré",
+          "tú": "empezarás",
+          "él/ella": "empezará",
+          "nosotros/nosotras": "empezaremos",
+          "vosotros/vosotras": "empezaréis",
+          "ellos/ellas": "empezarán"
+        },
+        "Condicional": {
+          "yo": "empezaría",
+          "tú": "empezarías",
+          "él/ella": "empezaría",
+          "nosotros/nosotras": "empezaríamos",
+          "vosotros/vosotras": "empezaríais",
+          "ellos/ellas": "empezarían"
+        }
+      }
+    },
+    {
+      "infinitivo": "conocer",
+      "conjugaciones": {
+        "presente": {
+          "yo": "conozco",
+          "tú": "conoces",
+          "él/ella": "conoce",
+          "nosotros/nosotras": "conocemos",
+          "vosotros/vosotras": "conocéis",
+          "ellos/ellas": "conocen"
+
+
+        },
+        "Pretérito imperfecto": {
+          "yo": "conocía",
+          "tú": "conocías",
+          "él/ella": "conocía",
+          "nosotros/nosotras": "conocíamos",
+          "vosotros/vosotras": "conocíais",
+          "ellos/ellas": "conocían"
+        },
+        "Futuro": {
+          "yo": "conoceré",
+          "tú": "conocerás",
+          "él/ella": "conocerá",
+          "nosotros/nosotras": "conoceremos",
+          "vosotros/vosotras": "conoceréis",
+          "ellos/ellas": "conocerán"
+        },
+        "Condicional": {
+          "yo": "conocería",
+          "tú": "conocerías",
+          "él/ella": "conocería",
+          "nosotros/nosotras": "conoceríamos",
+          "vosotros/vosotras": "conoceríais",
+          "ellos/ellas": "conocerían"
+        }
+      }
+    }
+  ]
+}
+
+
+
+
